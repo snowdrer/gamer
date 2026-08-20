@@ -1,0 +1,96 @@
+# gamer
+projeto jogo 
+bem vindo  ao primeiro parte de se progeto 
+meu nome  SunCat
+
+//base principios 
+
+ Em uma base de um jogo voce deve saber o que vai ser seu jogo se não 
+ seu jogo não tera sentido, então crie uma base use isso ou pode estrutura do seu jeito: 
+
+ 1. decida qual e o genero do seu jogo;
+ 2. crie um "gdd";{Boa! Vou montar uma escala de 3 a 10 mostrando os níveis de completude/maturidade de um GDD (Game Design Document) — do mais básico ao mais profissional:
+
+Nível 3 – Ideia solta
+Só um conceito no papel: nome do jogo, gênero e uma frase resumindo a ideia central. Sem estrutura.
+
+Nível 4 – Conceito com contexto
+Adiciona plataforma-alvo, público-alvo e uma breve descrição da mecânica principal.
+
+Nível 5 – Pilares definidos
+Já tem os pilares de design (os 3-4 princípios que guiam todas as decisões) e um resumo do gameplay loop.
+
+Nível 6 – Mecânicas detalhadas
+Descreve as mecânicas principais e secundárias, controles, e como o jogador progride.
+
+Nível 7 – Narrativa e mundo
+Inclui história, personagens, ambientação e como a narrativa se conecta com a jogabilidade.
+
+Nível 8 – Sistemas completos
+Detalha economia do jogo, progressão, níveis de dificuldade, UI/UX e fluxogramas de telas.
+
+Nível 9 – Produção
+Acrescenta escopo técnico, cronograma, referências visuais/sonoras e requisitos de arte.
+
+Nível 10 – Documento profissional
+GDD vivo e versionado, usado por toda a equipe, com anexos (protótipos, testes, feedback), atualizado conforme o desenvolvimento avança.
+
+3.depois de montar o "gdd":
+  crie uma rede para postar sobre o desenvolvimento do seu jogo
+
+4.escola uma engines:
+  {
+  Godot
+
+Responsável por: jogos 2D e 3D, gratuita e open-source
+Usa a linguagem GDScript (parecida com Python)
+Ponto forte: leve, sem royalties, ótima documentação
+
+Unity
+
+Responsável por: jogos 2D, 3D, mobile e até VR/AR
+Usa a linguagem C#, mas também tem Visual Scripting (sem código)
+Ponto forte: engine mais usada na indústria, cheia de tutoriais e assets prontos
+
+ Unreal Engine
+
+Responsável por: jogos 3D com gráficos realistas de altíssima qualidade
+Usa Blueprints (visual) ou C++
+Ponto forte: visual impressionante, usado em jogos AAA
+
+GameMaker
+
+Responsável por: jogos exclusivamente 2D
+Usa a linguagem GML (GameMaker Language), simples de aprender
+Ponto forte: extremamente rápido pra criar protótipos e jogos indie 2D
+
+Construct 3
+
+Responsável por: jogos 2D, direto no navegador
+Não precisa programar — funciona com eventos e condições visuais
+Ponto forte: mais fácil pra quem nunca programou na vida
+
+PlayCanvas
+
+Responsável por: jogos 3D que rodam direto no navegador (sem download)
+Usa JavaScript
+Ponto forte: compartilhar o jogo é só mandar um link
+
+Babylon.js
+
+Responsável por: jogos 3D na web, projetos mais robustos
+Usa JavaScript/TypeScript
+Ponto forte: bom pra portar jogos maiores pra rodar no navegador
+
+ Three.js
+
+Responsável por: criar cenas e jogos 3D na web do zero, com mais controle técnico
+Usa JavaScript
+Ponto forte: flexibilidade total pra quem quer mexer no código
+}
+
+4. o ultimo passo é:
+
+"A vida não vem com manual — você é quem escreve as regras do seu próprio caminho."
+
+  então se seu sonho é cria um jogo não desista e continue pois isso a conteseu comigo, mais eu decidi que iria enfrente:

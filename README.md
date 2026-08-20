@@ -1,2 +1,0 @@
-# gamer
-projeto jogo 
