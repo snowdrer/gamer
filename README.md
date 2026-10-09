@@ -8,3 +8,5 @@ Este repositório será usado para compartilhar o desenvolvimento do jogo, suas 
 **Desenvolvido por:** SunCat e Suki
 
 Mais novidades em breve!
+
+https://gamejolt.com/c/sunneskitty-pdwsyt
