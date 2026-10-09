@@ -1,0 +1,87 @@
+# gamer
+
+projeto jogo
+
+bem vindo a primeira parte do seu projeto
+
+meu nome é SunCat e hoje vou falar algumas coisas que voce precisa saber antes de começar a criar seu jogo.
+
+* base principios
+
+Bom, antes de criar um jogo voce precisa saber oque vai fazer, porque se voce começar sem ter uma ideia de como vai funcionar seu jogo pode acabar ficando sem sentido.
+
+então vamos começar pelo basico.
+
+1. escolha o genero do seu jogo
+
+voce quer fazer um jogo de terror, rpg, aventura, plataforma ou outra coisa? isso depende de voce e da sua criatividade.
+
+2. crie um gdd
+
+o gdd é tipo um documento onde voce coloca as ideias do seu jogo, como vai funcionar, a historia, os personagens e outras coisas.
+
+voce pode fazer ele do seu jeito mais aqui vai uma ideia de como começar:
+
+nivel 3 - uma ideia do jogo, o nome e o genero.
+
+nivel 4 - decidir pra qual plataforma vai ser feito e quem vai jogar.
+
+nivel 5 - pensar no que vai fazer seu jogo ser diferente dos outros.
+
+nivel 6 - criar as mecanicas e decidir como o jogador vai jogar.
+
+nivel 7 - criar a historia, os personagens e o mundo do jogo.
+
+nivel 8 - pensar nos menus, inventario, dificuldade e outras coisas.
+
+nivel 9 - organizar a produção, os desenhos, sons e o tempo que vai levar.
+
+nivel 10 - deixar tudo organizado, testar o jogo e ir atualizando o gdd conforme o projeto avança.
+
+mas calma voce não precisa fazer tudo isso de uma vez, vai fazendo aos poucos.
+
+3. crie uma rede pra postar sobre seu jogo
+
+depois de ter uma ideia melhor do seu jogo voce pode criar uma pagina pra mostrar o desenvolvimento dele, postar desenhos, personagens e falar das novidades.
+
+assim as pessoas podem conhecer seu projeto e acompanhar ele.
+
+4. escolha uma engine
+
+a engine é o programa que voce vai usar pra criar seu jogo, existem varias e cada uma tem suas vantagens.
+
+Godot - gratuita e boa pra jogos 2d e 3d, usa GDScript.
+
+Unity - serve pra jogos 2d, 3d e mobile, usa C#.
+
+Unreal Engine - boa pra jogos 3d com graficos realistas, usa Blueprints ou C++.
+
+GameMaker - boa pra criar jogos 2d e aprender programação.
+
+Construct 3 - permite criar jogos usando eventos visuais, sem precisar escrever muito codigo.
+
+PlayCanvas - cria jogos 3d que rodam no navegador.
+
+Babylon.js - usada pra criar jogos 3d na web.
+
+Three.js - permite criar cenas 3d usando javascript.
+
+escolha a que combina com seu projeto, não precisa usar a mais famosa só porque todo mundo usa.
+
+5. o ultimo passo
+
+bom chegamos no final dessa parte.
+
+criar um jogo não é facil, voce vai errar bastante, vai ter codigo que não funciona e ideias que vão dar errado. as vezes voce vai até pensar em desistir.
+
+mas isso acontece, ninguem começa sabendo tudo.
+
+eu tambem tenho meus projetos e muitas ideias que quero colocar em pratica, e mesmo que seja dificil eu decidi continuar.
+
+então se voce quer criar um jogo, começa pelo basico e vai aprendendo no caminho, não precisa ser perfeito logo de primeira.
+
+"A vida não vem com manual, voce é quem escreve as regras do seu proprio caminho."
+
+ass: SunCat
+
+e é isso, espero que voce consiga criar seu jogo e não desista dele só porque ficou dificil.
